@@ -1,2 +1,4 @@
 no-commit/
+node_modules/.env
+frontend/.env
 node_modules/
